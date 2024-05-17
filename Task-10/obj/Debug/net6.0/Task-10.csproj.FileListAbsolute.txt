@@ -1,0 +1,14 @@
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.AssemblyInfoInputs.cache
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.AssemblyInfo.cs
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.csproj.CoreCompileInputs.cache
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\bin\Debug\net6.0\Task-10.exe
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\bin\Debug\net6.0\Task-10.deps.json
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\bin\Debug\net6.0\Task-10.runtimeconfig.json
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\bin\Debug\net6.0\Task-10.dll
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\bin\Debug\net6.0\Task-10.pdb
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.dll
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\refint\Task-10.dll
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.pdb
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\Task-10.genruntimeconfig.cache
+C:\Users\prave\OneDrive\Documents\tech training\c#\Task-10\obj\Debug\net6.0\ref\Task-10.dll
